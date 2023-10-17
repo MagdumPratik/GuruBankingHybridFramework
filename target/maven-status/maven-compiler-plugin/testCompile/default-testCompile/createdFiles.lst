@@ -1,0 +1,9 @@
+PageObject\AddCustomer.class
+PageObject\LoginPage.class
+TestCases\TC_02AddCustomer.class
+Utilities\XLUtils.class
+BaseClassess\AddCustomerBaseClass.class
+Utilities\ReadProperty.class
+TestCases\TC_01Logintest.class
+BaseClassess\LoginPageBaseClass.class
+TestCases\TC_03DATLoginTest.class
